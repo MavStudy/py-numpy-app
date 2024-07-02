@@ -1,0 +1,2 @@
+#3. Функции автозаполнения, создания матриц и числовых диапазонов | NumPy уроки
+https://proproprogs.ru/modules/numpy-funkcii-avtozapolneniya-sozdaniya-matric-i-chislovyh-diapazonov
